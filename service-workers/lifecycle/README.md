@@ -16,12 +16,6 @@ self.addEventListener("install", event =>
 );
 ```
 
-## Aguardando
-
-Este é o estado em que o service worker fica até que não esteja nenhum servie worker antigo concorrendo com ele. Assim, se evita ter dois service worker em paralelo e possíveis erros.
-
-Você pode usar esse evento para avisar o usuário que deverá fazer alguma ação.
-
 ## Ativado
 
 Este evento você pode fazer ações prévias a ativação do service worker, por exemplo, migrações de esquema, dados etc.

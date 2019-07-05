@@ -18,3 +18,4 @@ Existem diversas, mas alguma das mais comuns são:
 ## Coisas que ainda vamos poder fazer
 
 - Geofencing
+- Agendamento
